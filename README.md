@@ -1,13 +1,14 @@
 <img align="center" alt="Coding GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
 # 🌎 Hello World, I'm Parvez Shaik 👨‍💻
 
 I'm a Cloud-Certified Full-Stack Developer passionate about building scalable, cloud-native web and mobile applications! 🚀  
-With a strong foundation in AWS, React.js, Node.js, Spring Boot, Docker, and Kubernetes, I love bringing real-world ideas to life through clean code, modern DevOps practices, and a user-centered design mindset.  
+With a strong foundation in AWS, React.js, Node.js, Spring Boot, Docker, and Kubernetes, I love bringing real-world ideas to life through clean code, modern DevOps practices, and a user-centered design mindset.
 
 Currently pursuing my Master's in Computer Science at Northern Arizona University, and actively working on exciting full-stack and cloud deployment projects!
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 ## 🔥 What I'm Up To:
 - 🔭 Building and deploying cloud-based applications with AWS, Docker, and Kubernetes.
@@ -15,7 +16,7 @@ Currently pursuing my Master's in Computer Science at Northern Arizona Universit
 - 🛠️ Recently built a **Three-Tier Voting Web Application** hosted on Render → [Live Demo Here!](https://voting-app-frontend-jaj1.onrender.com/)
 - 📚 Exploring advanced topics in Java (Spring Boot 3, Spring Security, OAuth2.0) and Kubernetes!
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 ## 💬 Ask Me About:
 - Full Stack Development (React.js, Node.js, Express, PostgreSQL)
@@ -23,7 +24,7 @@ Currently pursuing my Master's in Computer Science at Northern Arizona Universit
 - Backend APIs (REST APIs, Authentication with JWT, OAuth2.0)
 - Agile Development, Cloud Security Best Practices, and Application Deployment
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 ## ✨ Quick Facts:
 - 🎓 Currently pursuing Master's (MSCS) at **Northern Arizona University**.
@@ -31,31 +32,19 @@ Currently pursuing my Master's in Computer Science at Northern Arizona Universit
 - 🚀 Deployed multiple full-stack projects to cloud platforms (Render, AWS).
 - 🛡️ Cloud Certified: AWS Certified Cloud Practitioner.
 - 🌟 Passionate about creating scalable apps, optimizing deployments, and mastering DevOps.
-- 📫 How to reach me: **parvezshaik9885@gmail.com**  
-- 📝 [My Resume](#) (insert your latest Drive or hosted resume link!)
+- 📫 How to reach me: **parvezshaik9885@gmail.com**
+- 📝 [My Resume](#) (Insert your latest Drive or hosted resume link!)
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 ## ⚡ Fun Facts:
 - 🎯 Big fan of chess, technology podcasts, and historical documentaries.
 - 🎨 Always experimenting with new frontend libraries and DevOps tools.
 - 📚 Believer in lifelong learning and building things that matter!
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 ## 🚀 Tech Stack I Work With:
-
-| Frontend | Backend | Cloud | DevOps | Database |
-|:---------|:--------|:------|:-------|:---------|
-| React.js, HTML5, CSS3, TypeScript | Node.js, Express, Java (Spring Boot) | AWS, GCP, Render | Docker, Kubernetes, GitHub Actions, Jenkins | PostgreSQL, MongoDB, MySQL |
-
----
-
-**Let's connect and build something amazing together!** 🎉
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br> 🛠️ Languages and Tools:
-
----
 
 **Programming Languages**  
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
@@ -131,114 +120,3 @@ Currently pursuing my Master's in Computer Science at Northern Arizona Universit
 **Operating Systems**  
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
 ![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows)
-
-### 🛠️ Tools and Software:
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
- 
-  
-### 👣 Next Steps
-
-_Since you don't want to leave my profile just yet! Here are some things you can do :_
-
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br>
-<div align='left'>
-
-<ul>
-
-<li>
-<a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="https://twitter.com/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  0xabdulkhalid-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="mailto:0xabdulkhalid@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-	
-</ul>
-</div>
-
-<br>
-
-<br>
-<br>
-<br>
-
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-
-<h3 align="left">Languages and Tools:</h3>
-
-<table>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,spring,java,python,fastapi,flask"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=react,redux,html,css,tailwind,bootstrap,materialui,typescript,javascript"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Database:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,firebase"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Cloud & DevOps:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,jenkins,githubactions,render"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Testing:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=jest,pytest"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Version Control:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">IDEs:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,intellij,eclipse,visualstudio"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Other Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=grafana,prometheus,bash,linux"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Operating Systems:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu,debian"/></td>
-    </tr>
-</table>
-
-
-
-<!--
-**Parvez-shaik/Parvez-shaik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
